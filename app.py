@@ -1,4 +1,4 @@
-@author:div
+#author:div
 
 import streamlit as st
 import pickle
